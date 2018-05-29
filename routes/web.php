@@ -16,3 +16,4 @@
 // });
 
 Route::get('/contact', 'PageController@index');
+Route::get('/about', 'PageController@about');
